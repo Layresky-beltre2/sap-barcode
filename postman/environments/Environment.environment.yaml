@@ -1,0 +1,11 @@
+name: Environment
+values:
+  - key: url
+    value: 'https://ceo-hq-dev-sld.ceo.do:50000/b1s/v2'
+  - key: companyDB
+    value: CCO_DEMO
+  - key: username
+    value: Ceo1234$
+  - key: password
+    value: diana
+color: 184
